@@ -8,7 +8,7 @@ A complete, production-ready machine learning application for predicting house p
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [TBD - Add Streamlit Cloud URL here]
+**Deployed Application**: [(https://housepricespredictionmodelapp.streamlit.app/)]
 
 ## 📋 Table of Contents
 
