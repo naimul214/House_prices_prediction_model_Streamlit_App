@@ -1,6 +1,6 @@
 # 🏠 Ontario House Price Predictor
 
-A complete, production-ready machine learning application for predicting house prices across Ontario using Linear Regression and Random Forest models. Built with Streamlit for easy deployment and interactive use.
+A machine learning application for predicting house prices across Ontario using Linear Regression and Random Forest models. Built with Streamlit for easy deployment and interactive use.
 
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
