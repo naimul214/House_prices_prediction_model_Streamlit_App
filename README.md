@@ -6,9 +6,6 @@ A machine learning application for predicting house prices across Ontario using 
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🚀 Live Demo
-
-**Deployed Application**: [(https://housepricespredictionmodelapp.streamlit.app/)]
 
 ## 📋 Table of Contents
 
